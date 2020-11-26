@@ -1,4 +1,4 @@
-# TwoTruths1Lie
+# Two Truths 1 Lie Game
 In this application, users can type in a celebrity's name, and then they can guess which of the three facts is a lie.
 
 Future Updates:
