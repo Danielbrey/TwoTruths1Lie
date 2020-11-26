@@ -8,5 +8,5 @@ Future Updates:
 - Update the formatting to make it prettier
 
 
-Link to program: https://danielbrey.shinyapps.io/2Truth1Lie/
+Link to program: https://danielbrey.shinyapps.io/2Truth1Lie/ \
 Website: https:famousbirthdays.com
