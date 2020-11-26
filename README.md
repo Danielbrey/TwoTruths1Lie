@@ -5,6 +5,7 @@ Future Updates:
 - Sometimes it does not change the incorrect fact when the name is changed
 - Have the "Guess is correct!" disappear when the name changes
 - Make age lie based on their actual age instead of having it be constant
+- Use different statements
 - Update the formatting to make it prettier
 
 
