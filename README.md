@@ -9,4 +9,4 @@ Future Updates:
 
 
 Link to program: https://danielbrey.shinyapps.io/2Truth1Lie/ \
-Website: https:famousbirthdays.com
+Website: https://famousbirthdays.com
